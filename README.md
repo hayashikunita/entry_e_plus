@@ -21,8 +21,15 @@ Python + Playwright を用いて e+（イープラス）のチケット申込を
 - 保存場所: `videos/` 配下にページごとのサブフォルダが作成され、`.webm` が出力されます（Playwright の仕様）。
 - 中断時の保存: Ctrl+C で中断しても、ページ→コンテキスト→ブラウザを閉じる段階で録画が保存されます。
 - 説明用デモ動画（固定ファイル）
-    - 先着フローの説明用デモ: `videos/demo/first_come_overview.webm`
-    - 自動録画とは別のサンプル動画の配置場所です。必要に応じてファイル名は変更し、README の記載も合わせて更新してください。
+    - 先着フローの説明用デモ: 
+
+ - 自動録画とは別のサンプル動画の配置場所です。必要に応じて
+
+<div>
+<video controls src="https://github.com/user-attachments/assets/169716ae-b4f9-4d75-b9b4-fb394d1ad563" muted="false"></video>
+</div>
+
+ファイル名は変更し、README の記載も合わせて更新してください。
 
 詳細な保存先や確認方法は「スクリーンショット/動画の保存場所」を参照してください。
 
